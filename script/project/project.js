@@ -1,27 +1,15 @@
 var dataJson = [
   {
     "img": "https://cdn-icons-png.flaticon.com/128/644/644667.png",
-    "title": "Mcodo: Learn coding, A.I. Chat Bot & Online 25+ compiler.",
-    "paragraph": "Android Kotlin, Retrofit, Server-Sent Events (SSE), Room DB, ACE Editor.",
-    "url": "https://play.google.com/store/apps/details?id=in.sohezsoft.mcodo"
+    "title": "Electronic Invoice",
+    "Team leader and working on The backend, Deploying Oracle Database, Apex and ORDS in AWS by using EC2 Service and S3 for backup and Recovery, Data Modeling and Creating functions for automating Email.",
+    "url": "https://apex.oracle.com/pls/apex/r/invoice_app/invoice-system/login?session=5920322759476"
   },
   {
     "img": "https://cdn-icons-png.flaticon.com/128/5806/5806364.png",
-    "title": "Student Portal App",
-    "paragraph": "Android Kotlin, Retrofit, Glide, ROOM, Lottie animation.",
+    "title": "Hospital Management System Architecture",
+    "paragraph": "Creating Database Schema by Oracle Database Modeler Establishing relationships between different tables, such as foreign key relationships, and ensuring data integrity.",
     "url": "https://github.com/sohez/StudentPortalApp"
-  },
-  {
-    "img": "https://cdn-icons-png.flaticon.com/128/1021/1021264.png",
-    "title": "Registration Full API",
-    "paragraph": "PHP API : LOGIN, SIGNUP, FORGOT-PASS, Data ENC/DEC, PHP POD, MYSQL.",
-    "url": "https://github.com/sohez/PHP-Projects/tree/main/REGISTRATION-FULL-API"
-  },
-  {
-    "img": "https://cdn-icons-png.flaticon.com/128/2156/2156009.png",
-    "title": "Marks Percentage Calculator & Download Result.",
-    "paragraph": "HTML, CSS, Js (lib- jspdf, html2canvas)",
-    "url": "https://sohez.github.io/Marks-Percentage-Calculator/"
   }
 ];
 

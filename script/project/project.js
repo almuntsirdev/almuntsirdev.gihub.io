@@ -9,7 +9,7 @@ var dataJson = [
     "img": "https://cdn-icons-png.flaticon.com/128/5806/5806364.png",
     "title": "Hospital Management System Architecture",
     "paragraph": "Creating Database Schema by Oracle Database Modeler Establishing relationships between different tables, such as foreign key relationships, and ensuring data integrity.",
-    "url": "https://github.com/sohez/StudentPortalApp"
+    "url": "https://www.linkedin.com/pulse/hospital-management-system-project-oracle-sql-md-almuntsir/"
   }
 ];
 

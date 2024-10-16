@@ -2,7 +2,7 @@ var dataJson = [
   {
     "img": "https://cdn-icons-png.flaticon.com/128/644/644667.png",
     "title": "Electronic Invoice",
-    "Team leader and working on The backend, Deploying Oracle Database, Apex and ORDS in AWS by using EC2 Service and S3 for backup and Recovery, Data Modeling and Creating functions for automating Email.",
+    "paragraph": "Team leader and working on The backend, Deploying Oracle Database, Apex and ORDS in AWS by using EC2 Service and S3 for backup and Recovery, Data Modeling and Creating functions for automating Email.",
     "url": "https://apex.oracle.com/pls/apex/r/invoice_app/invoice-system/login?session=5920322759476"
   },
   {

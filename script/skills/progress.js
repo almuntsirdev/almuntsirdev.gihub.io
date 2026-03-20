@@ -1,23 +1,23 @@
 var dataJson = [
     {
         "name": "Data Modeling",
-        "width": "60%"
+        "width": "80%"
     }, {
-        "name": "RMAN (Recovery Manager)",
+        "name": "BPMN",
+        "width": "85%"
+    }, {
+        "name": "Documentation",
+        "width": "90%"
+    },{
+        "name": "Excel",
         "width": "70%"
     }, {
         "name": "SQL",
-        "width": "85%"
-    },{
-        "name": "SQL PLUS",
-        "width": "60%"
-    }, {
-        "name": "REST API",
-        "width": "45%"
+        "width": "75%"
     },
     {
-        "name": "Oracle Apex",
-        "width": "60%"
+        "name": "Power BI",
+        "width": "70%"
     }
 ];
 
